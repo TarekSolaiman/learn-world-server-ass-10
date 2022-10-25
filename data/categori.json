@@ -1,0 +1,38 @@
+[
+    {
+        "cat_id": "01",
+        "cat_name":"Java Script",
+        "details":"JavaScript is a high-level programming language that is one of the core technologies of the World Wide Web. It is used as a client-side programming language by 97.8 percent of all websites. JavaScript was originally used only to develop web browsers, but they are now used for server-side website deployments and non-web browser applications as well.",
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+    },
+    {
+        "cat_id": "02",
+        "cat_name":"Python",
+        "details": "Python is one of the most popular programming languages today and is easy for beginners to learn because of its readability. It is a free, open-source programming language with extensive support modules and community development, easy integration with web services, user-friendly data structures, and GUI-based desktop applications. It is a popular programming language for machine learning and deep learning applications.",
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+    },
+    {
+        "cat_id": "03",
+        "cat_name":"C++",
+        "details":"C++ is an enhanced version of C. Many developers today skip learning C on its own, while others think learning C first provides a valuable foundation for C++ development. Both languages are widely used in computer science and programming.",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+    },
+    {
+        "cat_id": "04",
+        "cat_name":"Java",
+        "details":"Java is widely used in web and application development as well as big data. Java is also used on the backend of several popular websites, including Google, Amazon, Twitter, and YouTube. It is also extensively used in hundreds of applications. New Java frameworks like Spring, Struts, and Hibernate are also very popular.",
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+    },
+    {
+        "cat_id": "05",
+        "cat_name":"PHP",
+        "details":"PHP is an open-source programming language created in 1990. Many web developers find it essential to learn PHP, as this language is used to build more than 80% of websites on the Internet, including notable sites like Facebook and Yahoo.",
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+    },
+    {
+        "cat_id": "06",
+        "cat_name":"C#",
+        "details":"Developed by Microsoft, C# rose to fame in the 2000s for supporting the concepts of object-oriented programming. It is one of the most used programming languages for the .NET framework. Anders Hejlsberg, the creator of C#, says the language is more like C++ than Java.",
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+    }
+]
