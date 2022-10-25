@@ -9,7 +9,7 @@ const categoris = require("./data/categori.json");
 const coursesTopic = require("./data/courstopic.json");
 
 app.get("/", (req, res) => {
-  res.send("Hellow This is Creative learn");
+  res.send("This is Creative learn");
 });
 
 app.get("/course-categori", (req, res) => {
