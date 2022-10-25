@@ -17,8 +17,8 @@ app.get("/course-categori", (req, res) => {
 });
 
 app.get("/course/:id", (req, res) => {
-  const id = req.params.id;
-  const topic = coursesTopic.filter((topic) => topic.id == id);
+  const id = parseInt(req.params.id);
+  const topic = coursesTopic.filter((topic) => topic.id === id);
   res.send(topic);
 });
 
