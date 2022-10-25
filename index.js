@@ -9,7 +9,7 @@ const categoris = require("./data/categori.json");
 const coursesTopic = require("./data/courstopic.json");
 
 app.get("/", (req, res) => {
-  res.send("This is Creative learn");
+  res.send("Hellow This is Creative learn");
 });
 
 app.get("/course-categori", (req, res) => {
@@ -22,4 +22,4 @@ app.get("/course/:id", (req, res) => {
   res.send(topic);
 });
 
-app.listen(port, () => console.log("Creative learn server run port :", port));
+app.listen(port, () => console.log("Creative run port :", port));
