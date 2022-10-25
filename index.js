@@ -22,4 +22,4 @@ app.get("/course/:id", (req, res) => {
   res.send(topic);
 });
 
-app.listen(port, () => console.log("Creative run port :", port));
+app.listen(port, () => console.log("Creative learn server run port :", port));
