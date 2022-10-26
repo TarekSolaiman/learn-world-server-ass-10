@@ -1,218 +1,218 @@
 [
     {
-        "id":1,
-        "topic":"JavaScript Variables",
+        "cat_id":1,
+        "cat_name":"JavaScript Variables",
         "details":"Variables are containers for storing data (storing data values). Always declare JavaScript variables with var,let, or const. The var keyword is used in all JavaScript code from 1995 to 2015.The let and const keywords were added to JavaScript in 2015.If you want your code to run in older browsers, you must use var.",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":1,
-        "topic":"JavaScript Functions",
+        "cat_id":1,
+        "cat_name":"JavaScript Functions",
         "details":"A JavaScript function is a block of code designed to perform a particular task.A JavaScript function is executed when (something) invokes it (calls it).",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":1,
-        "topic":"JavaScript Objects",
+        "cat_id":1,
+        "cat_name":"JavaScript Objects",
         "details":"All cars have the same properties, but the property values differ from car to car.All cars have the same methods, but the methods are performed at different times.",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":1,
-        "topic":"JavaScript Arrays",
+        "cat_id":1,
+        "cat_name":"JavaScript Arrays",
         "details":"If you have a list of items (a list of car names, for example), storing the cars in single variables could look like this",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":1,
-        "topic":"JavaScript if, else",
+        "cat_id":1,
+        "cat_name":"JavaScript if, else",
         "details":"Conditional statements are used to perform different actions based on different conditions.Use the if statement to specify a block of JavaScript code to be executed if a condition is true.Use the else statement to specify a block of code to be executed if the condition is false.",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":1,
-        "topic":"JavaScript For Loop",
+        "cat_id":1,
+        "cat_name":"JavaScript For Loop",
         "details":"Loops are handy, if you want to run the same code over and over again, each time with a different value.",
-        "pic":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
+        "img":"https://www.freepnglogos.com/uploads/javascript-png/javascript-shield-logo-icon-2.png"
     },
     {
-        "id":2,
-        "topic":"Python Variables",
+        "cat_id":2,
+        "cat_name":"Python Variables",
         "details":"Python has no command for declaring a variable.A variable is created the moment you first assign a value to it.",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":2,
-        "topic":"Python Casting",
+        "cat_id":2,
+        "cat_name":"Python Casting",
         "details":"There may be times when you want to specify a type on to a variable. This can be done with casting. Python is an object-orientated language, and as such it uses classes to define data types, including its primitive types.",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":2,
-        "topic":"Python Strings",
+        "cat_id":2,
+        "cat_name":"Python Strings",
         "details":"Strings in python are surrounded by either single quotation marks, or double quotation marks.",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":2,
-        "topic":"Python If,Else",
+        "cat_id":2,
+        "cat_name":"Python If,Else",
         "details":"These conditions can be used in several ways, most commonly in (if statements) and loops.",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":2,
-        "topic":"Python For Loops",
+        "cat_id":2,
+        "cat_name":"Python For Loops",
         "details":"A for loop is used for iterating over a sequence (that is either a list, a tuple, a dictionary, a set, or a string).",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":2,
-        "topic":"Python Functions",
+        "cat_id":2,
+        "cat_name":"Python Functions",
         "details":"A function is a block of code which only runs when it is called.You can pass data, known as parameters, into a function. function can return data as a result.",
-        "pic":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
+        "img":"https://i.pinimg.com/originals/bc/f1/ba/bcf1bacebbfe4c9c7789bd593ef93c4c.png"
     },
     {
-        "id":3,
-        "topic":"C++ Variables",
+        "cat_id":3,
+        "cat_name":"C++ Variables",
         "details":"Variables are containers for storing data values.Where type is one of C++ types (such as int), and variableName is the name of the variable (such as x or myName). The equal sign is used to assign values to the variable.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":3,
-        "topic":"C++ Strings",
+        "cat_id":3,
+        "cat_name":"C++ Strings",
         "details":"Strings are used for storing text.A string variable contains a collection of characters surrounded by double quotes.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":3,
-        "topic":"C++ For Loop",
+        "cat_id":3,
+        "cat_name":"C++ For Loop",
         "details":"When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":3,
-        "topic":"C++ Arrays",
+        "cat_id":3,
+        "cat_name":"C++ Arrays",
         "details":"Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":3,
-        "topic":"C++ Functions",
+        "cat_id":3,
+        "cat_name":"C++ Functions",
         "details":"Functions are used to perform certain actions, and they are important for reusing code: Define the code once, and use it many times.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":3,
-        "topic":"C++ Objects",
+        "cat_id":3,
+        "cat_name":"C++ Objects",
         "details":"Everything in C++ is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.",
-        "pic":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcc-Lykm_jfxQKxfK88KZdaJPyNcn4GinrXVZpjVknxImCjiepLtBPPJ5xp7wzXqG7Evs&usqp=CAU"
     },
     {
-        "id":4,
-        "topic":"Java Variables",
+        "cat_id":4,
+        "cat_name":"Java Variables",
         "details":"Variables are containers for storing data values.To create a variable, you must specify the type and assign it a value",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":4,
-        "topic":"Java If,Else",
+        "cat_id":4,
+        "cat_name":"Java If,Else",
         "details":"Use the if statement to specify a block of Java code to be executed if a condition is true.Use the else statement to specify a block of code to be executed if the condition is false.",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":4,
-        "topic":"Java For Loop",
+        "cat_id":4,
+        "cat_name":"Java For Loop",
         "details":"When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":4,
-        "topic":"Java Arrays",
+        "cat_id":4,
+        "cat_name":"Java Arrays",
         "details":"Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":4,
-        "topic":"Java Methods",
+        "cat_id":4,
+        "cat_name":"Java Methods",
         "details":"A method is a block of code which only runs when it is called.You can pass data, known as parameters, into a method.",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":4,
-        "topic":"Java Objects",
+        "cat_id":4,
+        "cat_name":"Java Objects",
         "details":"In Java, an object is created from a class. We have already created the class named Main, so now we can use this to create objects.",
-        "pic":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
+        "img":"https://i.pinimg.com/originals/d9/7a/d7/d97ad7d1f3f486dc9309a87b0209538a.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP Variables",
+        "cat_id":5,
+        "cat_name":"PHP Variables",
         "details":"A variable can have a short name (like x and y) or a more descriptive name (age, carname, total_volume).",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP Strings",
+        "cat_id":5,
+        "cat_name":"PHP Strings",
         "details":"In this chapter we will look at some commonly used functions to manipulate strings.",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP if,else",
+        "cat_id":5,
+        "cat_name":"PHP if,else",
         "details":"Very often when you write code, you want to perform different actions for different conditions. You can use conditional statements in your code to do this.",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP Loops",
+        "cat_id":5,
+        "cat_name":"PHP Loops",
         "details":"Often when you write code, you want the same block of code to run over and over again a certain number of times. So, instead of adding several almost equal code-lines in a script, we can use loops.",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP Functions",
+        "cat_id":5,
+        "cat_name":"PHP Functions",
         "details":"The real power of PHP comes from its functions.PHP has more than 1000 built-in functions, and in addition you can create your own custom functions.",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":5,
-        "topic":"PHP Arrays",
+        "cat_id":5,
+        "cat_name":"PHP Arrays",
         "details":"An array is a special variable, which can hold more than one value at a time.",
-        "pic":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
+        "img":"https://ih1.redbubble.net/image.557918927.3695/st,small,845x845-pad,1000x1000,f8f8f8.u1.jpg"
     },
     {
-        "id":6,
-        "topic":"C# Variables",
+        "cat_id":6,
+        "cat_name":"C# Variables",
         "details":"Variables are containers for storing data values.In C#, there are different types of variables (defined with different keywords),",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     },
     {
-        "id":6,
-        "topic":"C# If,Else",
+        "cat_id":6,
+        "cat_name":"C# If,Else",
         "details":"Use the if statement to specify a block of C# code to be executed if a condition is True.Use the else statement to specify a block of code to be executed if the condition is False.",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     },
     {
-        "id":6,
-        "topic":"C# For Loop",
+        "cat_id":6,
+        "cat_name":"C# For Loop",
         "details":"When you know exactly how many times you want to loop through a block of code, use the for loop instead of a while loop.",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     },
     {
-        "id":6,
-        "topic":"C# Arrays",
+        "cat_id":6,
+        "cat_name":"C# Arrays",
         "details":"Arrays are used to store multiple values in a single variable, instead of declaring separate variables for each value.",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     },
     {
-        "id":6,
-        "topic":"C# Methods",
+        "cat_id":6,
+        "cat_name":"C# Methods",
         "details":"A method is a block of code which only runs when it is called.You can pass data, known as parameters, into a method.",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     },
     {
-        "id":6,
-        "topic":"C# Objects",
+        "cat_id":6,
+        "cat_name":"C# Objects",
         "details":"An object is created from a class. We have already created the class named Car, so now we can use this to create objects.",
-        "pic":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
+        "img":"https://www.pngitem.com/pimgs/m/345-3450034_c-logo-hd-png-download.png"
     }
 ]

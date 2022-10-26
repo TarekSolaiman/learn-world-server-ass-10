@@ -18,7 +18,7 @@ app.get("/course-categori", (req, res) => {
 
 app.get("/course/:id", (req, res) => {
   const id = parseInt(req.params.id);
-  const topic = coursesTopic.filter((topic) => topic.id === id);
+  const topic = coursesTopic.filter((topic) => topic.cat_id === id);
   res.send(topic);
 });
 
